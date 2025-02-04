@@ -4,7 +4,7 @@
 This Portolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my work experience, skills and certificates.
 
 - **Email**: [april03yyw@gmail.com](april03yyw@gmail.com)
-- **LinkedIn**: [linkedin.com/yuwen_april_yang](https://www.linkedin.com/in/april-yang-yuwen/)
+- **LinkedIn**: [Yuwen(April)Yang LinkedIn](https://www.linkedin.com/in/april-yang-yuwen/)
   
 ## 👩‍💻 Projects
 #### Equity Research Analyst @ [Burkenroad Reports]([https://www.linkedin.com/posts/april-yang-yuwen_business-first-bancshares-2023spring-burkenroad-activity-7058197410367369216-X4mA?utm_source=share&utm_medium=member_desktop](https://tulane.app.box.com/s/xk7wqnptcknpzof7as1c4ysg3bri5qam))
