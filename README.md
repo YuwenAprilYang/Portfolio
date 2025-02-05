@@ -1,10 +1,12 @@
 # Yuwen (April) Yang
 
 ## Data Portfolio
+🙋‍♀️ Hi I'm April Yang!
 This Portolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my work experience, skills and certificates.
 
 - **Email**: [april03yyw@gmail.com](april03yyw@gmail.com)
 - **LinkedIn**: [Yuwen(April)Yang](https://www.linkedin.com/in/april-yang-yuwen/)
+- Please feel free to connect with me or contact me!
   
 ## 👩‍💻 Projects
 #### Equity Research Analyst @ [Burkenroad Reports](https://tulane.app.box.com/s/xk7wqnptcknpzof7as1c4ysg3bri5qam)
