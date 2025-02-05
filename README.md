@@ -9,6 +9,10 @@ This Portolio is a compilation of all the Data Science and Data Analysis project
 - Please feel free to connect with me or contact me!
   
 ## 👩‍💻 Projects
+#### [Wordle Game Simulator](https://github.com/YuwenAprilYang/wordle/blob/a0003b908f054c0fabb53a171882cfc820cc10f1/Wordle.ipynb)
+_Tools: Python_
+Built a Wordle Game Simulator in Python, where users can guess the answer in 6 attemps with hints on correct letter and correct position
+
 #### Equity Research Analyst @ [Burkenroad Reports](https://tulane.app.box.com/s/xk7wqnptcknpzof7as1c4ysg3bri5qam)
 _Tools: Bloomberg, Excel_  
 Performed equity valuation and operated P/TBV ratio and 3 statement pro-forma models to forecast revenue streams; Presented investment recommendation conclusions to over 20,000 institutional and individual investors
